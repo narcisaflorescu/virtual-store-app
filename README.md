@@ -7,7 +7,7 @@ This project aims to create an application for managing the shopping cart of a v
 - [Notes](#Notes)
 - [Usage](#usage)
 - [Implementation Details](#implementation-details)
-- [Commands](#commands)
+
 
 ## Description
 

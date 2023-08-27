@@ -1,4 +1,4 @@
-# virtual-store-app
+# Virtual Store Console Application
 
 This project aims to create an application for managing the shopping cart of a virtual IT product store, along with the customers associated with each shopping cart.
 ## Table of Contents
